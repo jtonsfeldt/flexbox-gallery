@@ -1,0 +1,14 @@
+main {display:flex;
+    box-sizing: border-box;
+    gap:20px;
+    align-items:center;
+    border:solid 1px black;
+    height:100vh;
+    background-color: aquamarine;
+    overflow:auto;
+}
+
+img {
+/*flex:1;*/
+max-height:50vh;
+}
